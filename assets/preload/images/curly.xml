@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="curly.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="curly0000" x="0" y="0" width="239" height="285"/>
+	<SubTexture name="curly0001" x="239" y="0" width="239" height="285"/>
+	<SubTexture name="curly0002" x="478" y="0" width="239" height="285"/>
+	<SubTexture name="curly0003" x="717" y="0" width="239" height="285"/>
+	<SubTexture name="curly0004" x="717" y="0" width="239" height="285"/>
+	<SubTexture name="curly0005" x="0" y="285" width="239" height="285"/>
+	<SubTexture name="curly0006" x="0" y="285" width="239" height="285"/>
+	<SubTexture name="curly0007" x="0" y="285" width="239" height="285"/>
+	<SubTexture name="curly0008" x="0" y="285" width="239" height="285"/>
+	<SubTexture name="curly0009" x="0" y="285" width="239" height="285"/>
+</TextureAtlas>
