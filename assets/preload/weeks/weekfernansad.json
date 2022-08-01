@@ -1,0 +1,31 @@
+{
+	"storyName": "Triste",
+	"hideFreeplay": false,
+	"difficulties": "hard",
+	"weekBackground": "black",
+	"weekBefore": "weekfernan",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sad",
+			"fernan",
+			[
+				158,
+				128,
+				92
+			]
+		]
+	],
+	"weekName": "fernan el crack"
+}
