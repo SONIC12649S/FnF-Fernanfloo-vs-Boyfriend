@@ -8,14 +8,14 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "boyfriend idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				5,
-				-6
+				14
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,19 +25,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-30,
+				-20
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "bf down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-45,
+				45
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				-48,
-				-7
+				9
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				19
+				0,
+				39
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				-21,
+				1
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				-40,
+				43
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -92,7 +92,7 @@
 			"loop": false,
 			"offsets": [
 				-44,
-				22
+				39
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				-36,
+				35
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
-				18
+				-15,
+				38
 			],
 			"anim": "hurt",
 			"fps": 24,
@@ -200,7 +200,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bfgameplay",
 	"position": [
 		0,
 		350
@@ -213,9 +213,9 @@
 		209
 	],
 	"camera_position": [
-		340,
-		0
+		350,
+		-140
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.3
 }
