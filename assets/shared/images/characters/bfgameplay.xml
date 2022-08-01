@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfgameplay.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN MISS0000" x="810" y="424" width="386" height="374"/>
+	<SubTexture name="BF NOTE LEFT0000" x="4" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE LEFT0001" x="4" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE LEFT0002" x="403" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE LEFT0003" x="403" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE LEFT0004" x="403" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="403" y="1" width="393" height="413"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="806" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="806" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="1212" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="1212" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0004" x="1212" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="1212" y="3" width="406" height="407"/>
+	<SubTexture name="BF NOTE UP0000" x="24" y="424" width="380" height="446"/>
+	<SubTexture name="BF NOTE UP0001" x="24" y="424" width="380" height="446"/>
+	<SubTexture name="BF NOTE UP0002" x="410" y="424" width="380" height="446"/>
+	<SubTexture name="BF NOTE UP0003" x="410" y="424" width="380" height="446"/>
+	<SubTexture name="BF NOTE UP0004" x="410" y="424" width="380" height="446"/>
+	<SubTexture name="BF NOTE UP MISS0000" x="410" y="424" width="380" height="446"/>
+	<SubTexture name="bf down0000" x="810" y="424" width="386" height="374"/>
+	<SubTexture name="bf down0001" x="810" y="424" width="386" height="374"/>
+	<SubTexture name="bf down0002" x="1198" y="424" width="386" height="374"/>
+	<SubTexture name="bf down0003" x="1198" y="424" width="386" height="374"/>
+	<SubTexture name="bf down0004" x="1198" y="424" width="386" height="374"/>
+	<SubTexture name="boyfriend idle0000" x="11" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0001" x="11" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0002" x="404" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0003" x="404" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0004" x="794" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0005" x="794" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0006" x="1183" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0007" x="1183" y="883" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0008" x="11" y="1311" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0009" x="11" y="1311" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0010" x="401" y="1311" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0011" x="401" y="1311" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0012" x="791" y="1311" width="390" height="403"/>
+	<SubTexture name="boyfriend idle0013" x="791" y="1311" width="390" height="403"/>
+</TextureAtlas>
